@@ -1,0 +1,4 @@
+# Két torpedo kilövése a második tárolóból
+SUCCESS
+SUCCESS
+SUCCESS

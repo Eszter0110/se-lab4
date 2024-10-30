@@ -1,0 +1,3 @@
+# Mindkét tárolóból tüzelünk, de az egyik Üres
+SUCCESS
+SUCCESS

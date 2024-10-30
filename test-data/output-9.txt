@@ -1,0 +1,3 @@
+# Tüzelünk a másik tárból de a tár hibás
+SUCCESS
+FAIL

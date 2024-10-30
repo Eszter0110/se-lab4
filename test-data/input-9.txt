@@ -1,0 +1,3 @@
+# Tüzelünk a másik tárból de a tár hibás
+GT4500,0,0,1,1
+TORPEDO,SINGLE

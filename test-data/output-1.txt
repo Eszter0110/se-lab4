@@ -1,0 +1,3 @@
+# Üres táras tüzelés
+SUCCESS
+FAIL

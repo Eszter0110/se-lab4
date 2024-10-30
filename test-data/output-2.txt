@@ -1,0 +1,3 @@
+# Csak az elsővel lövünk
+SUCCESS
+SUCCESS
